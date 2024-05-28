@@ -1,4 +1,4 @@
-# Codealpha_Network-sniffer-in-python
+# CodeAlpha_Network-sniffer-in-python
 # Python Network Sniffer
 
 ## Overview
