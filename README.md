@@ -1,5 +1,4 @@
 # CodeAlpha_Network-sniffer-in-python
-# Python Network Sniffer
 
 ## Overview
 This project is a Python-based network sniffer designed to capture, analyze, and log network traffic. It supports parsing various protocols including Ethernet, IPv4, TCP, and UDP.
